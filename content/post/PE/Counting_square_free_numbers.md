@@ -12,6 +12,7 @@ In this article, we introduce an algorithm proposed by Jakub Pawlewicz [[1]](#re
 
 We first introduce a well-known algorithm with time complexity $\tilde{\mathcal{O}}(\sqrt{n})$.
 After that, we present a algorithm which is a modified version of first algorithm with time complexity $\tilde{\mathcal{O}}(n^{2/5})$ following from [[1]](#ref01).
+
 <!-- and can be viewed as a kind of divide-and-conquer algorithm. -->
 <!-- Moreover, this methodology is common in number theory problems in [Project Euler](https://projecteuler.net),
 and we show the power of this methodology by two examples at last. -->

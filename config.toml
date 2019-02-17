@@ -52,9 +52,14 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 #   url = "/categories/"
 [[menu.main]]
   name = "About"
-  weight = 40
+  weight = 50
   identifier = "about"
   url = "/about/"
+[[menu.main]]
+  name = "Achievements"
+  weight = 40
+  identifier = "achievements"
+  url = "/achievements/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
