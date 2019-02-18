@@ -3,9 +3,6 @@ title: "Euclidean geometric problems (1)"
 date: 2019-02-10
 lastmod: 2019-02-16
 tags: ["Euclidean geometry"]
-
-mathjax: true
-mathjaxEnableSingleDollar: true
 ---
 {{% center %}}
 ![img](/figure/2.11/problem.png "img")

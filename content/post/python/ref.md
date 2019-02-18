@@ -3,6 +3,8 @@ title: "Materials for Python learning"
 date: 2019-02-11
 lastmod: 2019-02-11
 tags: ["python"]
+
+mathjax: false
 ---
 My own list of materials for Python learning. Updating.
 <!--more-->

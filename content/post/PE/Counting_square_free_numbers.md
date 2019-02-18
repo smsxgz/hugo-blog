@@ -3,10 +3,6 @@ title: "Counting square free numbers"
 date: 2019-02-12
 lastmod: 2019-02-14
 tags: ['Algorithm', 'Project Euler']
-
-mathjax: true
-mathjaxEnableSingleDollar: true
-mathjaxEnableAutoNumber: true
 ---
 In this article, we introduce an algorithm proposed by Jakub Pawlewicz [[1]](#ref01) to count square free numbers not exceeding $n$ efficiently.
 
