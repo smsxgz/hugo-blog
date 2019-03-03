@@ -66,7 +66,7 @@ Note that
 
 i.e., $XB^2 - XC^2 = BH^2 - CH^2$.
 
-### Remark
+### Notes
 - With employing oriented area, angle and segment, this solution can be adopted for $P$ in a general position on the bisector of the angle $\angle BAC$.
 - We even never use the fact that $Q,A,R$ are collinear.
 It leads me to consider a better solution with beautiful geometric structure,
