@@ -2,14 +2,14 @@
 title: "Euclidean geometric problems (2)"
 date: 2019-02-17
 lastmod: 2019-02-17
-tags: ["Euclidean geometry"]
+tags: ["Euclidean geometry", "AMM"]
 ---
 {{% center %}}
 ![img](/figure/2.17/problem.png "img")
 {{% /center %}}
 <!--more-->
 ### Problem  
-This problem is from _American Mathematical Monthly_ ([problem 12092](https://doi.org/10.1080/00029890.2019.1547601)).
+This problem is from _The American Mathematical Monthly_ ([problem 12092](https://doi.org/10.1080/00029890.2019.1547601)).
 
 Let $ABC$ be a triangle, and let P be a point in the plane of the triangle satisfying
 $\angle BAP = \angle CAP$.
