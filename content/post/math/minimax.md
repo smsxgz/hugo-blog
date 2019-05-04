@@ -124,5 +124,5 @@ $$</div>
 <p align="right">☐</p>
 
 
-Reference:
-Komiya, H 1988, 'Elementary proof for sion's minimax theorem' Kodai Mathematical Journal, vol. 11, no. 1, pp. 5-7. https://doi.org/10.2996/kmj/1138038812
+__Reference:__  
+[1] Komiya, H 1988, 'Elementary proof for sion's minimax theorem' Kodai Mathematical Journal, vol. 11, no. 1, pp. 5-7. https://doi.org/10.2996/kmj/1138038812
