@@ -3,6 +3,8 @@ title: "Counting square free numbers"
 date: 2019-02-12
 lastmod: 2019-02-14
 tags: ['Algorithm', 'Project Euler']
+
+mathjaxEnableAutoNumber: true
 ---
 In this article, we introduce an algorithm proposed by Jakub Pawlewicz [[1]](#ref01) to count square free numbers not exceeding $n$ efficiently.
 
@@ -243,3 +245,4 @@ Both Python functions are accelerated by `numba.jit`.
 1. <a id="ref01">Jakub Pawlewicz, _Counting Square-Free Numbers_, [arxiv: 1107.4890](https://arxiv.org/pdf/1107.4890.pdf)</a>
 2. <a id="ref02">[Wikipedia: Square-free integer](https://en.wikipedia.org/wiki/Square-free_integer)</a>
 3. <a id="red03">[Wolfram MathWorld: Squarefree](http://mathworld.wolfram.com/Squarefree.html)</a>
+4. <a id="red04">[Squarefree Numbers (Project Euler)](https://projecteuler.net/problem=193)</a>

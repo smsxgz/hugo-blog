@@ -2,7 +2,7 @@
 title: "Proof for Minimax Theorem"
 date: 2019-03-24
 lastmod: 2019-03-24
-tags: ['math']
+tags: ['Math']
 
 mathjaxEnableAutoNumber: false
 ---
